@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Persons>
+  <person surname="Антонов">
+    <name>Михайло</name>
+    <nickname>
+    </nickname>
+    <height>178</height>
+    <eyecolor>
+    </eyecolor>
+    <haircolor>
+    </haircolor>
+    <special>
+    </special>
+    <nationality>українець</nationality>
+    <birthdayplace>
+    </birthdayplace>
+    <birthdayday>3 июля 2000 г.</birthdayday>
+    <lastplace>Луцьк</lastplace>
+    <language>
+    </language>
+    <lastdeal>розбій</lastdeal>
+    <measure>
+    </measure>
+    <date>пів року</date>
+    <alive>true</alive>
+  </person>
+  <person surname="Корнєєв">
+    <name>Олег</name>
+    <nickname>
+    </nickname>
+    <height>190</height>
+    <eyecolor>
+    </eyecolor>
+    <haircolor>
+    </haircolor>
+    <special>
+    </special>
+    <nationality>німець</nationality>
+    <birthdayplace>
+    </birthdayplace>
+    <birthdayday>30 апреля 2001 г.</birthdayday>
+    <lastplace>Київ</lastplace>
+    <language>
+    </language>
+    <lastdeal>розбій</lastdeal>
+    <measure>Заборона купувати та споживати м'ясо</measure>
+    <date>10 років</date>
+    <alive>true</alive>
+  </person>
+</Persons>

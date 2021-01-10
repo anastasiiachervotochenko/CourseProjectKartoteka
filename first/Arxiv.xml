@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Persons>
+  <person surname="Корнієнко">
+    <name>Олександр</name>
+    <nickname>
+    </nickname>
+    <height>
+    </height>
+    <eyecolor>
+    </eyecolor>
+    <haircolor>
+    </haircolor>
+    <special>
+    </special>
+    <nationality>поляк</nationality>
+    <birthdayplace>
+    </birthdayplace>
+    <birthdayday>13 мая 1982 г.</birthdayday>
+    <lastplace>Варшава</lastplace>
+    <language>українська</language>
+    <lastdeal>розбій</lastdeal>
+    <measure>
+    </measure>
+    <date>1 рік</date>
+    <alive>false</alive>
+  </person>
+  <person surname="Зелений">
+    <name>Михайло</name>
+    <nickname>
+    </nickname>
+    <height>187</height>
+    <eyecolor>білий</eyecolor>
+    <haircolor>
+    </haircolor>
+    <special>
+    </special>
+    <nationality>українець</nationality>
+    <birthdayplace>
+    </birthdayplace>
+    <birthdayday>10.08.2002</birthdayday>
+    <lastplace>Луцьк</lastplace>
+    <language>
+    </language>
+    <lastdeal>крадіжка</lastdeal>
+    <measure>
+    </measure>
+    <date>2 роки</date>
+    <alive>true</alive>
+  </person>
+  <person surname="Іванов">
+    <name>Іван</name>
+    <nickname>
+    </nickname>
+    <height>160</height>
+    <eyecolor>синій</eyecolor>
+    <haircolor>брюнет</haircolor>
+    <special>
+    </special>
+    <nationality>українець</nationality>
+    <birthdayplace>
+    </birthdayplace>
+    <birthdayday>12.03.2002</birthdayday>
+    <lastplace>Київ</lastplace>
+    <language>
+    </language>
+    <lastdeal>крадіжка</lastdeal>
+    <measure>
+    </measure>
+    <date>4 роки</date>
+    <alive>true</alive>
+  </person>
+</Persons>
